@@ -1,7 +1,9 @@
+# coco-rin-booking
 # coco-rin 宿泊予約システム
 
 ## プロジェクト概要
 宿泊施設の予約をオンラインで受け付けるためのWebシステムです。
+Reservation system for coco-rin
 
 ## 開発環境のセットアップ
 
@@ -43,4 +45,4 @@ npm run build
 │   └── utils/           # ユーティリティ関数
 ├── public/              # 静的ファイル
 └── docs/                # ドキュメント
-``` 
+```
