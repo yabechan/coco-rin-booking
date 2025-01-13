@@ -1,0 +1,13 @@
+{
+  "name": "coco-rin-booking-backend",
+  "version": "1.0.0",
+  "description": "Backend for coco-rin booking system using Google Apps Script",
+  "scripts": {
+    "push": "clasp push",
+    "pull": "clasp pull",
+    "deploy": "clasp deploy"
+  },
+  "dependencies": {
+    "@google/clasp": "^2.5.0"
+  }
+}
